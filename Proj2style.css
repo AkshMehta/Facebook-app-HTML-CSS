@@ -1,0 +1,54 @@
+body
+{
+    font-size: 30px;
+    background-image: url("https://www.kustomkartel.com/wp-content/uploads/2014/10/home-page-background-temp.jpg");
+}
+
+.Bye
+{
+    margin-top: 0px;
+    background-color: darkblue;
+    color:white;
+    padding-left: 20%;
+    padding-top: 20px;
+}
+
+.Hello
+{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    padding-left: 20px;
+    font-size: 50px;
+    font-style: italic;
+}
+body p .Geeks
+{
+    position: absolute;
+    text-align: right;
+    display: flex;
+}
+
+nav ul
+{
+   list-style: none;
+   padding-left: 20px;
+   display: flex;
+   justify-content: center;
+   margin-left: 10px;
+   margin-right: 10px;
+}
+
+article
+{
+    display: flex;
+}
+.Bud
+{
+    padding-left: 70px;
+}
+.Hi
+{
+    color: white;
+}
+
